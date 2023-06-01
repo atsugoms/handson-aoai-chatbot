@@ -2,10 +2,14 @@
 
 ## 【目次】
 
-![](images/prep01-0000-network.png)
-
-
+1. [Azure環境準備](#azure環境準備)
 1. [開発環境準備](#開発環境準備)
+
+## Azure環境準備
+
+1. Azure OpenAI Service 利用申請
+
+    https://aka.ms/oaiapply
 
 
 ## 開発環境準備
