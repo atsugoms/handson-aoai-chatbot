@@ -183,6 +183,6 @@ dist
 
 # End of https://www.toptal.com/developers/gitignore/api/visualstudiocode,microsoftoffice,node
 
-/_work
-/_tmp
-/_old
+_work/
+_tmp/
+_old/
