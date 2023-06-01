@@ -16,5 +16,5 @@
         * [App Service プラグイン](https://marketplace.visualstudio.com/items?itemName=ms-azuretools.vscode-azureappservice)
         * [REST Client プラグイン](https://marketplace.visualstudio.com/items?itemName=humao.rest-client)
     * [Bot Service Emulator](https://github.com/Microsoft/BotFramework-Emulator/releases/)
-    * [Node.js](https://nodejs.org/ja/download)
+    * [Node.js (v16 LTS)](https://nodejs.org/ja/download)
 

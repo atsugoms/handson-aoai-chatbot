@@ -1,0 +1,40 @@
+{
+  "$schema": "https://developer.microsoft.com/json-schemas/teams/v1.16/MicrosoftTeams.schema.json",
+  "manifestVersion": "1.16",
+  "version": "1.0.0",
+  "id": "{MICROSOFT_APP_ID}",
+  "developer": {
+    "name": "{YOUR_NAME}",
+    "websiteUrl": "https://example.com/",
+    "privacyUrl": "https://example.com/privacy",
+    "termsOfUseUrl": "https://example.com/app-tou"
+  },
+  "name": {
+    "short": "ChatBot w/ AOAI ChatGPT",
+    "full": "Azure OpenAI ChatGPT Internal ChatBot"
+  },
+  "description": {
+    "short": "ChatBot with AOAI ChatGPT",
+    "full": "AOAI (Azure OpenAI) の ChatGPT を使った Internal 向け ChatBot です。"
+  },
+  "icons": {
+    "outline": "bot-icon-small.png",
+    "color": "bot-icon-large.png"
+  },
+  "accentColor": "#CCE4F6",
+  "bots": [
+    {
+      "botId": "{MICROSOFT_APP_ID}",
+      "scopes": [
+        "team",
+        "personal",
+        "groupChat"
+      ],
+      "needsChannelSelector": false,
+      "isNotificationOnly": false,
+      "supportsFiles": false,
+      "supportsCalling": false,
+      "supportsVideo": false
+    }
+  ]
+}
