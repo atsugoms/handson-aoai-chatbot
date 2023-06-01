@@ -64,9 +64,9 @@
 
         | ファイル名 | 取得元 | 補足 |
         |---|---|---|
-        | `manifest.json` | [リンク](x) | Teamsアプリの定義ファイル |
-        | `bot-icon-large.png` | [リンク](x) | Teamsアプリ小アイコン。透明な 32x32 PNG アウトライン アイコン。 |
-        | `bot-icon-small.png` | [リンク](x) | Teamsアプリ大アイコン。フル カラーの 192x192 PNG アイコン。 |
+        | `manifest.json` | [リンク](https://raw.githubusercontent.com/akinaritsugo/handson-aoai-chatbot/main/recources/teams-app-pkg/manifest.json) | Teamsアプリの定義ファイル |
+        | `bot-icon-large.png` | [リンク](https://raw.githubusercontent.com/akinaritsugo/handson-aoai-chatbot/main/recources/teams-app-pkg/bot-icon-large.png) | Teamsアプリ小アイコン。透明な 32x32 PNG アウトライン アイコン。 |
+        | `bot-icon-small.png` | [リンク](https://raw.githubusercontent.com/akinaritsugo/handson-aoai-chatbot/main/recources/teams-app-pkg/bot-icon-small.png) | Teamsアプリ大アイコン。フル カラーの 192x192 PNG アイコン。 |
 
 1. `manifest.json` のプレースホルダーを修正
 
