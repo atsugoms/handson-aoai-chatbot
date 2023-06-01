@@ -2,7 +2,7 @@
 
 ## 【目次】
 
-![](images/e01-0000-resourcegroup.png)
+![](images/e01-0000-rg.png)
 
 1. [リソースグループ作成](#リソースグループ作成)
 

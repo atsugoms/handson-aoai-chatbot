@@ -16,6 +16,8 @@
 1. [Bot Service / App Service デプロイ](exercise04.md)
 1. [Bot Service / App Service 設定/テスト](exercise05.md)
 1. [Teamsチャンネル作成/テスト](exercise06.md)
+<!--
 1. [運用監視設定]()
 1. [閉域化]()
+-->
 

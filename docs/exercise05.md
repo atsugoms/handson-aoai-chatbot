@@ -2,7 +2,7 @@
 
 ## 【目次】
 
-![](images/e01-0000-resourcegroup.png)
+![](images/e05-0000-config.png)
 
 1. [App Service の設定（マネージドID）]()
 1. [App Service の設定（環境変数）]()

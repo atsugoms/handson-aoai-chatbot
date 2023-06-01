@@ -2,12 +2,12 @@
 
 ## 【目次】
 
-![](images/e01-0000-resourcegroup.png)
+![](images/e06-0000-teams.png)
 
-1. [Teamsチャンネル作成]()
-1. []()
-1. []()
-1. []()
+1. [Teamsチャンネル作成](#teamsチャンネル作成)
+1. [Teamsチャンネルテスト](#teamsチャンネルテスト)
+1. [Teamsアプリ作成](#teamsアプリ作成)
+1. [Teamsアプリの登録](#teamsアプリの登録)
 
 ## Teamsチャンネル作成
 

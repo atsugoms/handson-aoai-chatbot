@@ -2,7 +2,7 @@
 
 ## 【目次】
 
-![](images/e01-0000-resourcegroup.png)
+![](images/e04-0000-deploy.png)
 
 1. [Bot Service 作成](#bot-service-作成)
 1. [App Service 作成](#app-service-作成)
