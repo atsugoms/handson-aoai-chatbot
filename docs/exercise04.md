@@ -11,7 +11,7 @@
 
 ## Bot Service 作成
 
-1. Azure ポータル上部にある検索窓で「Bot Service」を検索して、「App Service」を選択
+1. Azure ポータル上部にある検索窓で「Bot Service」を検索して、「Bot Service」を選択
 
     ![](images/e04-0101-deploy.png)
 
