@@ -121,7 +121,7 @@
         ... (省略) ...
 
                 this.onMessage(async (context, next) => {
-                    // ----------------- MOD START -----------------
+                    // ----------------- MODIFY START -----------------
                     try {
                         const payload = {
                             messages: [
@@ -144,7 +144,7 @@
                         await context.sendActivity('Sorry, something went wrong.');
                     }
                     await next();
-                    // ----------------- MOD START -----------------
+                    // ----------------- MODIFY END -----------------
                 });
 
         ... (省略) ...
